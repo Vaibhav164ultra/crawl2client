@@ -1,4 +1,4 @@
-# Crawl2Client — AI Lead Generation Agent
+# Crawl2Client — AI-powered lead generation agent using local LLMs
 
 Production-oriented hybrid lead generation: **async Playwright scraping** + **LLM extraction/validation** + **structured JSON/CSV output**.
 
@@ -105,3 +105,28 @@ python main.py -q "..." --force
 | `--min-confidence` | Drop leads below threshold (default 0.6) |
 | `--force` | Ignore crawl history |
 | `-v` | Debug logging → `lead_scraper.log` |
+
+## 📸 Demo Output
+
+Query:
+"restaurants in Bangalore contact email"
+
+Output:
+- 12 leads extracted
+- 7 valid after filtering
+
+Example:
+{
+  "business_name": "XYZ Restaurant",
+  "email": "contact@xyz.com",
+  "location": "Bangalore"
+}
+## 🧠 Problems Solved
+
+- Handling invalid JSON from LLMs
+- Extracting structured data from messy HTML
+- Avoiding scraper failures across search engines
+- Building fallback + retry logic
+
+  ##Architecture diagram
+  Scraper → AI Extraction (Ollama) → Validator → Output
