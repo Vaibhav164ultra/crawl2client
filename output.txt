@@ -1,0 +1,97 @@
+[main] Done — 7 high-quality lead(s) exported.
+  1. Digimarkagency Com | info@digimarkagency.com | +919187375459 | score=9.0
+  2. Digimarkagency Com | varshitha.p@digimarkagency.com | +919187375459 | score=9.0
+  3. Fablesquare | mangal@fablesquare.com | +91 99020 16165 | score=8.0
+  4. DigiMark Agency | - | 1800 102 1035 | score=8.0
+  5. Fablesquare Com | mangal@fablesquare.com | - | score=7.0
+  6. Digimark Agency | info@digimarkagency.com | +91 919187375459 | score=7.0
+  7. FableSquare | - | 080 4110 1111 | score=6.0
+
+# Output
+[
+  
+  {
+    "business_name": "Digimarkagency Com",
+    "website": "https://www.digimarkagency.com/contact.html",
+    "email": "info@digimarkagency.com",
+    "phone": "+919187375459",
+    "location": "",
+    "niche": "general",
+    "tags": "agency",
+    "confidence_score": 0.55,
+    "outreach_score": 9.0,
+    "source_url": "https://www.digimarkagency.com/contact.html"
+  },
+  {
+    "business_name": "Digimarkagency Com",
+    "website": "https://www.digimarkagency.com/contact.html",
+    "email": "varshitha.p@digimarkagency.com",
+    "phone": "+919187375459",
+    "location": "",
+    "niche": "general",
+    "tags": "agency",
+    "confidence_score": 0.55,
+    "outreach_score": 9.0,
+    "source_url": "https://www.digimarkagency.com/contact.html"
+  },
+  {
+    "business_name": "Fablesquare",
+    "website": "https://fablesquare.com/contact/",
+    "email": "mangal@fablesquare.com",
+    "phone": "+91 99020 16165",
+    "location": "Studio Bengaluru, India",
+    "niche": "Brand Web SEO Ads",
+    "tags": "agency",
+    "confidence_score": 0.9,
+    "outreach_score": 8.0,
+    "source_url": "https://fablesquare.com/contact/"
+  },
+  {
+    "business_name": "DigiMark Agency",
+    "website": "https://www.digimarkagency.com/contact.html",
+    "email": "",
+    "phone": "1800 102 1035",
+    "location": "BTM Layout, Bengaluru",
+    "niche": "Digital Marketing",
+    "tags": "agency",
+    "confidence_score": 0.9,
+    "outreach_score": 8.0,
+    "source_url": "https://www.digimarkagency.com/"
+  },
+  {
+    "business_name": "Fablesquare Com",
+    "website": "https://fablesquare.com/contact/",
+    "email": "mangal@fablesquare.com",
+    "phone": "",
+    "location": "",
+    "niche": "general",
+    "tags": "local business",
+    "confidence_score": 0.55,
+    "outreach_score": 7.0,
+    "source_url": "https://fablesquare.com/contact/"
+  },
+  {
+    "business_name": "Digimark Agency",
+    "website": "https://www.digimarkagency.com/contact.html",
+    "email": "info@digimarkagency.com",
+    "phone": "+91 919187375459",
+    "location": "BMTC Complex, 1st floor - Garuda BHIVE Workspace BTM Layout Campus, Outer Ring Rd, Old Madiwala, Kuvempu Nagar, BTM 2nd Stage, Bengaluru, Karnataka 560068",
+    "niche": "general",
+    "tags": "agency",
+    "confidence_score": 0.8,
+    "outreach_score": 7.0,
+    "source_url": "https://www.digimarkagency.com/contact.html"
+  },
+  {
+    "business_name": "FableSquare",
+    "website": "https://fablesquare.com/contact/",
+    "email": "",
+    "phone": "080 4110 1111",
+    "location": "Bengaluru, India",
+    "niche": "Full-service digital marketing agency",
+    "tags": "agency",
+    "confidence_score": 0.8,
+    "outreach_score": 6.0,
+    "source_url": "https://www.fablesquare.com/about/"
+  }
+]
