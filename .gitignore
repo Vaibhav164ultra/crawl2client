@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+leads_output.csv
+leads.json
+lead_scraper.log
+visited_urls.json
+.pytest_cache/
+*.egg-info/
