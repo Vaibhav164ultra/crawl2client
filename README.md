@@ -1,4 +1,4 @@
-# AI Lead Scraper
+# Crawl2Client — AI Lead Generation Agent
 
 Production-oriented hybrid lead generation: **async Playwright scraping** + **LLM extraction/validation** + **structured JSON/CSV output**.
 
